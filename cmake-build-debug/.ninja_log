@@ -1,0 +1,29 @@
+# ninja log v5
+11	2094	7071487277606115	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	1df95ed61dfcad70
+4	4699	7071487379025529	CMakeFiles/main.dir/main.cpp.obj	621ddb0eb9cc5179
+11	10333	7071487435301636	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	cef98e2459730809
+10335	12600	7071487458050123	lib/libgtest.a	1334603064932474
+12600	12653	7071487458598189	lib/libgtest_main.a	a9cb6356f1eef3f0
+12653	16412	7071487496176996	main.exe	ad3c85d85e485d2f
+12653	16412	7071487496176996	main[1]_tests.cmake	ad3c85d85e485d2f
+12653	16412	7071487496176996	C:/Users/alesh/CLionProjects/c++ programing university/Idz6/cmake-build-debug/main[1]_tests.cmake	ad3c85d85e485d2f
+4	1698	7071488762509338	CMakeFiles/main.dir/main.cpp.obj	621ddb0eb9cc5179
+1698	5153	7071488797060251	main.exe	ad3c85d85e485d2f
+1698	5153	7071488797060251	main[1]_tests.cmake	ad3c85d85e485d2f
+1698	5153	7071488797060251	C:/Users/alesh/CLionProjects/c++ programing university/Idz6/cmake-build-debug/main[1]_tests.cmake	ad3c85d85e485d2f
+4	1782	7071490991550300	CMakeFiles/main.dir/main.cpp.obj	621ddb0eb9cc5179
+1783	5328	7071491027006461	main.exe	ad3c85d85e485d2f
+1783	5328	7071491027006461	main[1]_tests.cmake	ad3c85d85e485d2f
+1783	5328	7071491027006461	C:/Users/alesh/CLionProjects/c++ programing university/Idz6/cmake-build-debug/main[1]_tests.cmake	ad3c85d85e485d2f
+6	1900	7071491489807985	CMakeFiles/main.dir/main.cpp.obj	621ddb0eb9cc5179
+1901	5396	7071491524724489	main.exe	ad3c85d85e485d2f
+1901	5396	7071491524724489	main[1]_tests.cmake	ad3c85d85e485d2f
+1901	5396	7071491524724489	C:/Users/alesh/CLionProjects/c++ programing university/Idz6/cmake-build-debug/main[1]_tests.cmake	ad3c85d85e485d2f
+3	1666	7071492244740916	CMakeFiles/main.dir/main.cpp.obj	621ddb0eb9cc5179
+1667	5149	7071492279572591	main.exe	ad3c85d85e485d2f
+1667	5149	7071492279572591	main[1]_tests.cmake	ad3c85d85e485d2f
+1667	5149	7071492279572591	C:/Users/alesh/CLionProjects/c++ programing university/Idz6/cmake-build-debug/main[1]_tests.cmake	ad3c85d85e485d2f
+16	6284	7071507248709441	CMakeFiles/main.dir/main.cpp.obj	621ddb0eb9cc5179
+6286	19594	7071507381765736	main.exe	ad3c85d85e485d2f
+6286	19594	7071507381765736	main[1]_tests.cmake	ad3c85d85e485d2f
+6286	19594	7071507381765736	C:/Users/alesh/CLionProjects/c++ programing university/Idz6/cmake-build-debug/main[1]_tests.cmake	ad3c85d85e485d2f
